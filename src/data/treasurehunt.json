@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "location": "Daitya Sudan Temple",
+    "clue": "The demon king once ruled here. Find the temple where Vishnu defeated him.",
+    "hint": "Look for the ancient stone carvings in the town center.",
+    "points": 100
+  },
+  {
+    "id": 2,
+    "location": "Gomukh Stream",
+    "clue": "Follow the sacred water flowing from the crater wall.",
+    "hint": "It's near the entrance to the crater trek path.",
+    "points": 150
+  },
+  {
+    "id": 3,
+    "location": "Biodiversity Zone",
+    "clue": "Where rare birds and plants guard the crater.",
+    "hint": "Head deep into the forest surrounding the lake.",
+    "points": 200
+  },
+  {
+    "id": 4,
+    "location": "Salt Water Edge",
+    "clue": "A mysterious lake where water breaks the rules.",
+    "hint": "Walk down to the very edge of the alkaline waters.",
+    "points": 250
+  },
+  {
+    "id": 5,
+    "location": "Crater Viewpoint",
+    "clue": "The final peak where the cosmic impact is visible in all its glory.",
+    "hint": "The highest point on the rim overlooking the entire circle.",
+    "points": 500
+  }
+]

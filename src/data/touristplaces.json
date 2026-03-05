@@ -1,0 +1,20 @@
+[
+  {
+    "type": "Hotel",
+    "name": "Lonar Tourist Lodge",
+    "coords": [19.991, 76.518],
+    "description": "MTDC operated lodge with crater views."
+  },
+  {
+    "type": "Restaurant",
+    "name": "Lake View Restaurant",
+    "coords": [19.989, 76.515],
+    "description": "Local Maharashtrian cuisine with a view."
+  },
+  {
+    "type": "Parking",
+    "name": "Lonar Bus Stand Parking",
+    "coords": [19.993, 76.521],
+    "description": "Main parking area for visitors."
+  }
+]

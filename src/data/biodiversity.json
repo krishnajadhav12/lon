@@ -1,0 +1,124 @@
+[
+  {
+    "category": "Birds",
+    "items": [
+      {
+        "name": "Greater Flamingo",
+        "description": "These iconic pink birds are occasional visitors to the saline waters of Lonar, attracted by the abundance of spirulina algae. Their presence transforms the lake into a vibrant spectacle of color.",
+        "status": "Migratory",
+        "image": "https://images.unsplash.com/photo-1510672981848-a1c4f1cb5ccf?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Indian Roller",
+        "description": "Known as 'Neelkanth', this bird is famous for its acrobatic displays and striking blue wings. It is often seen perched on low branches in the surrounding scrub forest, waiting for insects.",
+        "status": "Resident",
+        "image": "https://images.unsplash.com/photo-1620668039636-7fae43405370?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Brahminy Duck",
+        "description": "Also known as the Ruddy Shelduck, these orange-brown ducks are winter visitors. They are often found in pairs near the freshwater streams that feed into the crater.",
+        "status": "Winter Migrant",
+        "image": "https://images.unsplash.com/photo-1555661530-68c8e98db4e6?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Pied Kingfisher",
+        "description": "A striking black-and-white bird that can be seen hovering over the lake before diving with precision to catch its prey. It is a master of aerial stability.",
+        "status": "Common Resident",
+        "image": "https://images.unsplash.com/photo-1611637405506-e6e6ca710362?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Red-wattled Lapwing",
+        "description": "Easily identified by its loud 'did-he-do-it' call, this ground-nesting bird is common around the moist edges of the crater floor.",
+        "status": "Resident",
+        "image": "https://images.unsplash.com/photo-1604543198133-60909566986c?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  },
+  {
+    "category": "Animals & Reptiles",
+    "items": [
+      {
+        "name": "Gray Langur",
+        "description": "The most visible residents of the temple complexes around the rim. These monkeys are highly social, agile, and often interact with visitors near the Gomukh stream.",
+        "status": "Abundant",
+        "image": "https://images.unsplash.com/photo-1590691566700-11509b7888a6?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Bengal Monitor Lizard",
+        "description": "A large, powerful lizard often found basking on ancient stone ruins or near the forest trails. They play a crucial role as predators in the crater's ecosystem.",
+        "status": "Common",
+        "image": "https://images.unsplash.com/photo-1545286733-7615e8578374?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Golden Jackal",
+        "description": "A clever and adaptable predator that roams the crater rim at dusk. Their distinctive howls can often be heard echoing across the lake at night.",
+        "status": "Resident",
+        "image": "https://images.unsplash.com/photo-1516934024742-b461fba47600?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Wild Boar",
+        "description": "These sturdy animals are often seen rooting for food in the dense undergrowth of the crater floor, especially near the freshwater springs.",
+        "status": "Common",
+        "image": "https://images.unsplash.com/photo-1516233758813-a38d024919c5?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Indian Gazelle (Chinkara)",
+        "description": "A shy and graceful antelope that can be spotted in the drier scrubland areas. They are known for their incredible speed and ability to survive with very little water.",
+        "status": "Rarely Spotted",
+        "image": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  },
+  {
+    "category": "Microorganisms",
+    "items": [
+      {
+        "name": "Haloarchaea",
+        "description": "Extremophile microbes that thrive in high salinity. They produce a red pigment that famously turned the entire lake pink in 2020, capturing global attention.",
+        "status": "Unique to Lonar",
+        "image": "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Spirulina (Arthrospira)",
+        "description": "A type of blue-green algae that grows abundantly in the alkaline water. It is a nutrient-dense superfood and the primary reason flamingos visit the lake.",
+        "status": "Abundant",
+        "image": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Bacillus species",
+        "description": "Various strains of Bacillus bacteria have been isolated from the lake's sediment, many of which show potential for industrial and biotechnological applications.",
+        "status": "Scientifically Significant",
+        "image": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  },
+  {
+    "category": "Flora (Plants)",
+    "items": [
+      {
+        "name": "Teak (Tectona grandis)",
+        "description": "The dominant tree species in the forest surrounding the crater. Its large leaves and sturdy trunk provide essential shelter for the crater's diverse wildlife.",
+        "status": "Dominant",
+        "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Flame of the Forest (Palash)",
+        "description": "Known for its brilliant orange flowers that bloom in early spring, making the crater rim appear as if it is on fire. It is culturally significant in local traditions.",
+        "status": "Seasonal Highlight",
+        "image": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Babul (Acacia nilotica)",
+        "description": "A hardy, thorny tree that thrives in the semi-arid climate. Its yellow flowers and medicinal bark are well-known to the local communities.",
+        "status": "Common",
+        "image": "https://images.unsplash.com/photo-1596333522248-10163832e824?auto=format&fit=crop&w=800&q=80"
+      },
+      {
+        "name": "Sandalwood",
+        "description": "Found in small clusters within the protected forest areas. Its fragrant wood is highly valued, and the trees are strictly protected by forest authorities.",
+        "status": "Protected",
+        "image": "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?auto=format&fit=crop&w=800&q=80"
+      }
+    ]
+  }
+]

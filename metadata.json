@@ -1,0 +1,5 @@
+{
+  "name": "LonarVerse",
+  "description": "An interactive cosmic adventure platform for exploring Lonar Lake through storytelling, maps, and treasure hunts.",
+  "requestFramePermissions": ["geolocation"]
+}
